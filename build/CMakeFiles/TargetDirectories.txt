@@ -1,0 +1,6 @@
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/babel_client.dir
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/babel_server.dir
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/edit_cache.dir
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/rebuild_cache.dir
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/babel_client_autogen.dir
+/Users/gabrieldetaxis/Desktop/UltimateBabel/Testing/build/CMakeFiles/babel_server_autogen.dir
